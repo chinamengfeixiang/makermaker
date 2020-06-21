@@ -6,6 +6,7 @@
    :maxdepth: 2
    :hidden:
    
+   :caption: Beginners
    whatwhyhow
    scratch
    microbit
