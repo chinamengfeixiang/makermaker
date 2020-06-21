@@ -12,7 +12,6 @@
    arduino
    python
    
-   
 .. image:: /images/buganjiao.png
 
 
